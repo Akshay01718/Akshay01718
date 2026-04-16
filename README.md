@@ -49,11 +49,15 @@ Full-Stack Developer • AI/ML Enthusiast • Building practical and intelligent
 </p>
 
 ---
-
 ### 📫 Connect with Me
 <p align="left">
-<!-- Add your links here -->
-<!-- Example:
-<a href="https://linkedin.com/in/yourprofile" target="blank">LinkedIn</a>
--->
+
+<a href="https://www.linkedin.com/in/akshay-dinesh-aa0771345/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://instagram.com/Akshay01718" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>
